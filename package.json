@@ -1,0 +1,21 @@
+{
+  "name": "onestop-ait",
+  "version": "1.0.0",
+  "description": "OneStop AIT - Campus Life at Army Institute of Technology Pune (Antigravity Edition)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ait",
+    "pune",
+    "campus",
+    "portal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "sqlite3": "^6.0.1"
+  }
+}
